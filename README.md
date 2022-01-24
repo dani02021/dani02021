@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dani02021 - Daniel Gyudzhenev
+- 👀 I’m interested in Low-level code, reverse engineering, cybersecurity, AI
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on Minecraft anticheat plugins and websites :P
+- 📫 How to reach me - Discord: PorcoRosso#2616
